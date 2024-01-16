@@ -35,7 +35,7 @@ See also:
 ![96rlj9bg](https://github.com/alfatihtalab/AfyaProject/assets/35189369/db6701a1-e242-4a66-a48d-f9317cec1253)
 ![8k4t0b1f](https://github.com/alfatihtalab/AfyaProject/assets/35189369/a9df5d4b-16e3-4c6e-8c24-5a2cc7bae9b8)
 ![7iir7j0j](https://github.com/alfatihtalab/AfyaProject/assets/35189369/880d0cc7-75d1-46d8-a53e-5fc4042d8e35)
-![6ymaizko](https://github.com/alfatihtalab/AfyaProject/assets/35189369/da1409b4-d9d9-4ac9-a2a5-38f0f9cfcef1)
+
 
 
 ## For more info
